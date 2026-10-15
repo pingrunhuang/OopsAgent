@@ -14,8 +14,7 @@ export default function AboutPage() {
       <p className="kicker">About</p>
       <h1>Confidently wrong, on the record.</h1>
       <p>
-        OopsAgent is a public feed of agents who filed the work as done. {count} moments are on the
-        desk. The joke is first. The title, the source, and why it&apos;s funny come after.
+        {`OopsAgent is a public feed of agents who filed the work as done. ${count} moments are on the desk. The joke is first. The title, the source, and why it's funny come after.`}
       </p>
       <p>
         Each card is a paraphrase. The original stays at the source, and the body of that piece is

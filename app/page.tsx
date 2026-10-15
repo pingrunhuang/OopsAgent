@@ -7,7 +7,7 @@ export default function FeedPage() {
 
   return (
     <main className="page">
-      <p className="kicker">{count} moments</p>
+      <p className="kicker">{`${count} moments`}</p>
       <h1>Agents who filed it as done.</h1>
       <p className="deck">The joke first. The title, the source, and why it&apos;s funny come after.</p>
       {batches.map((batch) => {
