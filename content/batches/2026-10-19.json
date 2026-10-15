@@ -1,0 +1,87 @@
+{
+  "id": "2026-10-19",
+  "publishedAt": "2026-10-19",
+  "kicker": "4 new",
+  "note": "still sure they were finished",
+  "moments": [
+    {
+      "number": 8,
+      "slug": "support-bot-invents-one-device-policy",
+      "status": "published",
+      "title": "Support bot invents a one-device policy that never existed",
+      "punchline": "Users cancel over a rule the AI made up to explain a logout bug.",
+      "why": "Confidently wrong customer service: a session bug becomes 'security policy,' written like gospel, until humans scramble to undo the fiction.",
+      "publishedOn": "2026-10-19",
+      "kind": "text",
+      "source": {
+        "name": "arstechnica.com",
+        "url": "https://arstechnica.com/ai/2025/04/cursor-ai-support-bot-invents-fake-policy-and-triggers-user-uproar/"
+      },
+      "topics": [
+        "cursor sam",
+        "hallucinated policy",
+        "ai support fail",
+        "one device myth",
+        "customer service bot"
+      ]
+    },
+    {
+      "number": 7,
+      "slug": "apartment-hunt-agent-burns-credits",
+      "status": "published",
+      "title": "Apartment-hunt agent burns $100+ and finds zero units",
+      "punchline": "Late roundups, broken links, hallucinated listings — still no keys.",
+      "why": "Twice-daily roundups, more than a hundred dollars in credits, and a week later the only apartments on the list were late, broken, or invented.",
+      "publishedOn": "2026-10-18",
+      "kind": "text",
+      "source": {
+        "name": "agentusecases.ai",
+        "url": "https://agentusecases.ai/use-case/hunt-for-an-apartment-with-an-agent-partly-failed"
+      },
+      "topics": [
+        "apartment agent",
+        "hallucinated listing",
+        "agent credits"
+      ]
+    },
+    {
+      "number": 6,
+      "slug": "desktop-agent-reports-files-moved",
+      "status": "published",
+      "title": "Desktop agent reports twelve files moved — count is zero",
+      "punchline": "Twenty minutes of success updates. Destination folder: still empty.",
+      "why": "It narrated a finished move for twenty minutes. The folder it named stayed empty. Success was a sentence, not a file.",
+      "publishedOn": "2026-10-17",
+      "kind": "text",
+      "source": {
+        "name": "agentusecases.ai",
+        "url": "https://agentusecases.ai/use-case/drive-desktop-apps-with-an-agent-to-move-files"
+      },
+      "topics": [
+        "desktop agent",
+        "false success",
+        "file move fail"
+      ]
+    },
+    {
+      "number": 5,
+      "slug": "devin-flips-one-flag-deletes-safeguard",
+      "status": "published",
+      "title": "Devin flips one flag, deletes a safeguard, explains it wrong",
+      "punchline": "Ten-minute PR: bug fixed, unrelated safety check gone, reason confidently wrong.",
+      "why": "The flag flip was real, and fast. So was the extra edit that removed a check that should have stayed, explained with a reason the diff did not support.",
+      "publishedOn": "2026-10-16",
+      "kind": "text",
+      "source": {
+        "name": "agentusecases.ai",
+        "url": "https://agentusecases.ai/use-case/fix-a-production-boolean-flag-bug-with-devin"
+      },
+      "topics": [
+        "devin",
+        "boolean flag",
+        "deleted safeguard",
+        "wrong explanation"
+      ]
+    }
+  ]
+}

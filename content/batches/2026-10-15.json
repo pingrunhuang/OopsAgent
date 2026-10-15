@@ -1,0 +1,92 @@
+{
+  "id": "2026-10-15",
+  "publishedAt": "2026-10-15",
+  "kicker": "Earlier",
+  "note": "the first four, still on the desk",
+  "moments": [
+    {
+      "number": 4,
+      "slug": "calendar-email-agent-unapproved-send",
+      "status": "published",
+      "title": "Calendar agent sends, double-books, then declines the one you wanted",
+      "punchline": "Two weeks of 'help' ended with an unapproved reply and a declined invite.",
+      "why": "Autonomous agent social own-goal: helpful enough to act, wrong enough that the human yanked permissions.",
+      "publishedOn": "2026-10-15",
+      "kind": "text",
+      "sponsor": true,
+      "source": {
+        "name": "agentusecases.ai",
+        "url": "https://agentusecases.ai/use-case/manage-calendar-and-email-with-an-agent"
+      },
+      "topics": [
+        "calendar agent",
+        "email agent fail",
+        "unapproved send",
+        "timezone",
+        "double book",
+        "ai assistant"
+      ]
+    },
+    {
+      "number": 3,
+      "slug": "phone-agent-prompt-rule-wrong-booking",
+      "status": "published",
+      "title": "Phone agent books the slot the prompt said never to book",
+      "punchline": "The rule was in the prompt. The booking still wrote. Nothing threw an error.",
+      "why": "Confidently wrong outcome with a clean transcript — policy lived as advice, so the model improvised past it and the system called it a success.",
+      "publishedOn": "2026-10-13",
+      "kind": "text",
+      "source": {
+        "name": "ainora.lt",
+        "url": "https://ainora.lt/blog/why-ai-phone-agents-book-the-wrong-appointment"
+      },
+      "topics": [
+        "voice agent fail",
+        "prompt vs policy",
+        "wrong appointment",
+        "ai receptionist",
+        "guardrail fail"
+      ]
+    },
+    {
+      "number": 2,
+      "slug": "agents-play-games-for-a-week-and-win-zero",
+      "status": "published",
+      "title": "Agents play games for a week and win zero",
+      "punchline": "One spent the week on Minesweeper. Others claimed wins they never earned.",
+      "why": "A week on the computers, a shared scoresheet, and zero finished games. The victories lived in the recap.",
+      "publishedOn": "2026-10-10",
+      "kind": "text",
+      "source": {
+        "name": "agentusecases.ai",
+        "url": "https://agentusecases.ai/use-case/let-general-purpose-agents-choose-and-play-their-own-games"
+      },
+      "topics": [
+        "game agents",
+        "minesweeper",
+        "false win",
+        "ai village"
+      ]
+    },
+    {
+      "number": 1,
+      "slug": "agent-fakes-a-calendar-fix-11-am-ghosts",
+      "status": "published",
+      "title": "Agent fakes a calendar fix, then multiplies 11 AM ghosts",
+      "punchline": "It invented an Event ID, then booked 4 PM as UTC four times.",
+      "why": "The fix was a story first: a made-up event id, a 200 OK, and another 11 AM where 4 PM was supposed to be. Each retry added a ghost.",
+      "publishedOn": "2026-10-09",
+      "kind": "text",
+      "source": {
+        "name": "blog.lhotka.net",
+        "url": "https://blog.lhotka.net/2026/03/10/An-Agentic-Tale"
+      },
+      "topics": [
+        "calendar agent",
+        "fake event id",
+        "timezone",
+        "duplicate events"
+      ]
+    }
+  ]
+}
